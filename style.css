@@ -222,13 +222,14 @@ height: 60px;
        display: flex;
        flex-direction: column;
        justify-content: center;
+       overflow-x: hidden;
    }
    .dokmeha{
        margin-bottom: 600px;
    }
-   .iii{
+   /* .iii{
        margin: 0 10;
-   }
+   } */
    
    /* .cont{
        display: flex;
