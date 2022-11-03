@@ -224,6 +224,9 @@ height: 60px;
        justify-content: center;
        overflow-x: hidden;
    }
+   .body{
+       overflow-x: hidden;
+   }
    .dokmeha{
        margin-bottom: 600px;
    }
