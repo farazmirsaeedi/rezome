@@ -1,0 +1,237 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+.cw{
+    color: white;
+}
+
+/* .image{
+    background-color: #21aa58;
+} */
+.header{
+    height: 80px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-right: 30px;
+    padding-left: 30px;
+    
+}
+.eh3{
+    display: block;
+}
+
+.esnap{
+    
+    text-decoration: none;
+    font-size: large;
+    margin-left: 20px;
+    justify-content: center;
+    
+
+}
+#logo{
+width: 150px;
+margin-left: 30px;
+}
+.green-div{
+    background-color: #21aa58;
+    width: 100%;
+    height: 400px;
+    margin: 0!important;
+}
+@media only screen and (max-width:600px){
+    
+    .green-div{
+        flex-direction: column;
+    
+    }
+    .icons{
+        margin:50 0;
+        display: flex;
+        flex-direction: column;
+    }
+}
+.text1{
+    align-items: center;
+    
+}
+
+#inputNumber{
+    width: 250px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid white;
+}
+#inputNumber::placeholder{
+    color: white;
+}
+.div1{
+    padding-left: 150px;
+    padding-right: 230px;
+}
+.elink{
+    width: 120px;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    color: #21aa58;
+    font-size: large;
+
+
+    /* background-color: white; */
+}
+.elink2{
+    width: 250px;
+    margin-top: 30px;
+    font-size: large;
+}
+.aks{
+    height:400px;
+}
+.icons{
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 0 130 0 130;
+    
+}
+.namaye{
+    width: 62px;
+    height: 62px;
+    margin: 0 8;
+}
+.imagg{
+width: 200px;
+height: 60px;
+}
+.textalaki{
+    display: flex;
+    height: 150px;
+    background-color: #F2F5F8;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+.dokmeha{
+    height: 450px;
+    background-color: #F2F5F8;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+    
+    
+}
+.test{
+    /* margin: 0 auto; */
+    
+}
+.radif{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.dokia{
+    height: 91px;
+    width: 320px;
+    background-color: white;
+    display: flex;
+    justify-content: flex-start;
+    margin: 10px;
+    align-items: center;
+}
+.klik{
+    text-decoration: none;
+    font-weight: 600;
+    color: black;
+}
+.dialog{
+    color: grey;
+}
+#carouselExampleDark{
+    width: 70%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.slideee{
+    height: 300px;
+}
+.bgimg{
+    background-color: #F2F5F8;
+    width: 277px;
+    height: 190px;
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+}
+@media only screen and (max-width:600px){
+    .pack{
+        display: flex;
+        flex-direction:column ;
+        justify-content: center;
+        align-items: center;
+    }
+}
+.laye{
+    width: 277px;
+    display: flex;
+    flex-direction: column;
+    margin: 1 25;
+}
+.d-b{
+    display: flex;
+    flex-wrap: wrap;
+}
+.pack{
+    display: flex;
+    justify-content: center;
+}
+.footer{
+    background-color: aquamarine;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    padding: 0 140;
+}
+.aycons{
+    color: black;
+}
+.textnone{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    margin-left: 20px;
+
+}
+#text{
+    margin-left: auto;
+}
+@media only screen and (max-width:600px) {
+   .footer{
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+   }
+   .dokmeha{
+       margin-bottom: 600px;
+   }
+   .iii{
+       margin: 0 10;
+   }
+   
+   /* .cont{
+       display: flex;
+       flex-direction: column;
+   } */
+}
