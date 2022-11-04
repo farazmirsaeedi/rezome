@@ -227,6 +227,14 @@ height: 60px;
    .body{
        overflow-x: hidden;
    }
+   .akc{
+       width: 100%;
+       display: flex;
+       justify-content: center;
+   }
+   .aks{
+       width: 300px;
+   }
    .dokmeha{
        margin-bottom: 600px;
    }
