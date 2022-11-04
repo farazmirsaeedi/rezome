@@ -233,6 +233,15 @@ height: 60px;
        display: flex;
        justify-content: center;
    }
+   .dokmeha{
+       background-color: white;
+   }
+   .text{
+    margin-left: 0px;
+   }
+   /* .new{
+       margin: 0 0;
+   } */
    .aks{
        width: 300px;
    }
