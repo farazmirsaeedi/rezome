@@ -223,6 +223,7 @@ height: 60px;
        flex-direction: column;
        justify-content: center;
        overflow-x: hidden;
+       padding: 0;
    }
    .body{
        overflow-x: hidden;
